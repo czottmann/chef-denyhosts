@@ -1,0 +1,18 @@
+# chef-denyhosts
+
+Installs and enables [denyhosts](http://denyhosts.sourceforge.net/).
+denyhosts is _"a script intended to be run by Linux system administrators to
+help thwart SSH server attacks (also known as dictionary based attacks and
+brute force attacks)."_
+
+
+## Recipes
+
+* `denyhosts`: installs and enables denyhosts
+
+
+## Legal
+
+* Written by [Carlo Zottmann](http://github.com/carlo/)
+* Liability in case of anything: definitely not me.
+* License: [WTFPL](http://en.wikipedia.org/wiki/WTFPL).
